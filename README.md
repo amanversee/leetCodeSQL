@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
