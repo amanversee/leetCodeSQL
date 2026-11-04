@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanversee/leetCodeSQL/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -23,16 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -42,4 +46,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
