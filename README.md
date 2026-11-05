@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 ## Matrix
 |  |
