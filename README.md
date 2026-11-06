@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanversee/leetCodeSQL/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
+| [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
 ## Bidirectional Search
 |  |
 | ------- |
