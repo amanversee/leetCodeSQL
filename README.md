@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
