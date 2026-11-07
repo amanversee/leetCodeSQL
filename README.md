@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 ## Union-Find
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Dynamic Programming
 |  |
 | ------- |
