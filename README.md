@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 ## Union-Find
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,5 +143,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
