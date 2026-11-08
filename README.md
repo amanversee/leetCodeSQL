@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amanversee/leetCodeSQL/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanversee/leetCodeSQL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/amanversee/leetCodeSQL/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/amanversee/leetCodeSQL/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 ## Counting
