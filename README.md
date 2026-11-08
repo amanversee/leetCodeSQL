@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/amanversee/leetCodeSQL/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 ## Shortest Path
 |  |
 | ------- |
@@ -147,9 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanversee/leetCodeSQL/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
