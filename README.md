@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanversee/leetCodeSQL/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/amanversee/leetCodeSQL/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/amanversee/leetCodeSQL/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 ## Counting
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
