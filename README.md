@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
+| [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
 ## Backtracking
@@ -185,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
+| [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
