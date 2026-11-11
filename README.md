@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/amanversee/leetCodeSQL/tree/master/0172-factorial-trailing-zeroes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amanversee/leetCodeSQL/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amanversee/leetCodeSQL/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amanversee/leetCodeSQL/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
