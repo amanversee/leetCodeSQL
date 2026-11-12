@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanversee/leetCodeSQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/amanversee/leetCodeSQL/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
 | [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
@@ -214,13 +216,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amanversee/leetCodeSQL/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
