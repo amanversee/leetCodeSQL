@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amanversee/leetCodeSQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [1267-count-servers-that-communicate](https://github.com/amanversee/leetCodeSQL/tree/master/1267-count-servers-that-communicate) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanversee/leetCodeSQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/amanversee/leetCodeSQL/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
 ## Bidirectional Search
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amanversee/leetCodeSQL/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tournament Sort
 |  |
