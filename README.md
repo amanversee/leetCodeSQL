@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amanversee/leetCodeSQL/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/amanversee/leetCodeSQL/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/amanversee/leetCodeSQL/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amanversee/leetCodeSQL/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanversee/leetCodeSQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/amanversee/leetCodeSQL/tree/master/0295-find-median-from-data-stream) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/amanversee/leetCodeSQL/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/amanversee/leetCodeSQL/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanversee/leetCodeSQL/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/amanversee/leetCodeSQL/tree/master/2747-count-zero-request-servers) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/amanversee/leetCodeSQL/tree/master/3364-minimum-positive-sum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amanversee/leetCodeSQL/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
