@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/amanversee/leetCodeSQL/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amanversee/leetCodeSQL/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/amanversee/leetCodeSQL/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/amanversee/leetCodeSQL/tree/master/0502-ipo) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanversee/leetCodeSQL/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/amanversee/leetCodeSQL/tree/master/1882-process-tasks-using-servers) |
