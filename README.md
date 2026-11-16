@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanversee/leetCodeSQL/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/amanversee/leetCodeSQL/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amanversee/leetCodeSQL/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0427-construct-quad-tree) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amanversee/leetCodeSQL/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/amanversee/leetCodeSQL/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/amanversee/leetCodeSQL/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/amanversee/leetCodeSQL/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/amanversee/leetCodeSQL/tree/master/0909-snakes-and-ladders) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/amanversee/leetCodeSQL/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amanversee/leetCodeSQL/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/amanversee/leetCodeSQL/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amanversee/leetCodeSQL/tree/master/0918-maximum-sum-circular-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanversee/leetCodeSQL/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanversee/leetCodeSQL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -312,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amanversee/leetCodeSQL/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amanversee/leetCodeSQL/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amanversee/leetCodeSQL/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
