@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/amanversee/leetCodeSQL/tree/master/0433-minimum-genetic-mutation) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amanversee/leetCodeSQL/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amanversee/leetCodeSQL/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanversee/leetCodeSQL/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Union-Find
 |  |
 | ------- |
