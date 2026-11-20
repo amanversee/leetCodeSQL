@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/amanversee/leetCodeSQL/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanversee/leetCodeSQL/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amanversee/leetCodeSQL/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0137-single-number-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/amanversee/leetCodeSQL/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/amanversee/leetCodeSQL/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanversee/leetCodeSQL/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/amanversee/leetCodeSQL/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/amanversee/leetCodeSQL/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amanversee/leetCodeSQL/tree/master/0191-number-of-1-bits) |
 ## Memoization
